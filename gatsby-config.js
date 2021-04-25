@@ -3,7 +3,7 @@ module.exports = {
     title: `Gatsby Starter Blog`,
     author: {
       name: `Nitin Sharma`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      summary: `who creates some funny stuff.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
