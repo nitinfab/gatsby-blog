@@ -7,11 +7,12 @@ description: "Yes you can also earn money online"
 I am earning online anf yes you also can earn if you want to.
 
 Here are 4 ways to earn money online.
->Medium:
-Write content and earn money.
->YouTube: 
-Create Videos and earn money.
->Amazon KDP:
-Write Books and publish on KDP and that's it. When someone purchase your book, you can earn money.
->Freelancing:
-Work on your specific niche and earn money.
+
+1. Medium:
+   Write content and earn money.
+2. YouTube:
+   Create Videos and earn money.
+3. Amazon KDP:
+   Write Books and publish on KDP and that's it. When someone purchase your book, you can earn money.
+4. Freelancing:
+   Work on your specific niche and earn money.
