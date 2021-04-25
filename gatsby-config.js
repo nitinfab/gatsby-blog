@@ -38,6 +38,12 @@ module.exports = {
             },
           },
           {
+            resolve: `gatsby-plugin-google-adsense`,
+            options: {
+              publisherId: `ca-pub-8630242017394665`,
+            },
+          },
+          {
             resolve: `gatsby-remark-responsive-iframe`,
             options: {
               wrapperStyle: `margin-bottom: 1.0725rem`,
