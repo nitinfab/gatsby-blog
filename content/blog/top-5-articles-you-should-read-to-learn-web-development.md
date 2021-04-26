@@ -23,7 +23,7 @@ So I called him to know the strategies.
 
 So this way my journey of Web development started. And from that, I have learned that Blog posts and YouTube can make you a Web Developer.
 
-## 1. Getting Started and Earning $105,813/yr as a Web Developer for Beginners.
+### 1. Getting Started and Earning $105,813/yr as a Web Developer for Beginners.
 
 As a beginner, you should know what exactly is Web development and why you should learn it. After that, you will find interest in it. [In this article](https://medium.com/code-blog/getting-started-and-earning-105-813-yr-as-a-web-developer-for-beginners-19b2cd26fcc2), I have started from scratch i.e how I learned Web Development. Including a brief roadmap with every web technology discussed. Here, I have even explained crucial concepts in Front-end Web Development and in Back-end Development.
 
@@ -31,23 +31,23 @@ After that 80+ free resources for Web development. And the main concept of earni
 
 Lastly, in this post, I have explained that you can be an App developer using Web technologies.
 
-## 2. How I Would Learn Front-end Web Development If I Had to Start Over Again
+### 2. How I Would Learn Front-end Web Development If I Had to Start Over Again
 
 Here I have explained, what I would do If I had to start it again. Since Web Development is vast enough, a beginner should plan before getting started. It is not great to learn React, Angular, and Vue at the same time.
 
 You can read this post from [here](https://javascript.plainenglish.io/how-i-would-learn-front-end-web-development-if-i-had-to-start-over-again-24e6228050d0).
 
-## 3. 80+ Free Resources for Web Designers and Web Developers in 2021
+### 3. 80+ Free Resources for Web Designers and Web Developers in 2021
 
 Now you have learned what actually is Web development, it's time to give you a lot of free resources from where you can learn Web development for free. So [here it is](https://javascript.plainenglish.io/80-free-resources-for-web-designers-and-web-developers-in-2021-f400be2875ea).
 
-## 4. Top 12 YouTube Channels Every Web Developer Should Follow
+### 4. Top 12 YouTube Channels Every Web Developer Should Follow
 
 After spending three years as a Web developer, I think you can learn it for free using YouTube. Also, YouTube helps us to keep updated with the latest technology since top web developers updates about the new technology through their YouTube channels.
 
 You can read it [from here](https://medium.com/code-blog/top-12-youtube-channels-every-web-developer-should-follow-4b5a4f6ee1e4).
 
-## 5. How to Learn Web Development Using Free Resources
+### 5. How to Learn Web Development Using Free Resources
 
 Lastly, here is the last but most crucial blog that got ranked in Google within days after being published. It was even trending on Google.
 
