@@ -45,6 +45,8 @@ Now you have learned what actually is Web development, it's time to give you a l
 
 After spending three years as a Web developer, I think you can learn it for free using YouTube. Also, YouTube helps us to keep updated with the latest technology since top web developers updates about the new technology through their YouTube channels.
 
+You can read it [from here](https://medium.com/code-blog/top-12-youtube-channels-every-web-developer-should-follow-4b5a4f6ee1e4).
+
 ## 5. How to Learn Web Development Using Free Resources
 
 Lastly, here is the last but most crucial blog that got ranked in Google within days after being published. It was even trending on Google.
