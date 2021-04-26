@@ -1,3 +1,8 @@
+// Gatsby settings for the environment variables
+require("dotenv").config({
+  path: `.env.${process.env.NODE_ENV}`,
+})
+
 module.exports = {
   siteMetadata: {
     title: `StartBuzz`,
@@ -19,6 +24,12 @@ module.exports = {
         path: `${__dirname}/content/blog`,
         name: `blog`,
       },
+    },
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: process.env.GA_TRACKING_ID
+      }
     },
     {
       resolve: `gatsby-source-filesystem`,
