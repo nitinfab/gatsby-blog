@@ -3,8 +3,7 @@ layout: blog
 title: "Is Unsplash will be free or will charge you money "
 date: 2021-04-25T08:39:24.482Z
 ---
-
-When I write stories on Medium, everything I believe is to attract readers, followers, claps, and more views.
+When I write stories on [Medium](https://nitinfab.medium.com/), everything I believe is to attract readers, followers, claps, and more views.
 
 But it is an outcome.
 
